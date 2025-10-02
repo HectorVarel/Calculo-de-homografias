@@ -5,4 +5,3 @@ Este proyecto consiste, en que en una imagen  tienes un objeto del cual obtienes
 
 Prototipo funcional:
 
-![Tracking Demo](CNN_homografia.PDF)
