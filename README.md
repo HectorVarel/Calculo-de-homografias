@@ -7,8 +7,8 @@ Experimentos:
 
 Ejemplo 1:
 
-![Tracking Demo](homografias/homografia1.PNG)
+!(homografias/homografia1.PNG)
 
 Ejemplo 2:
 
-![Tracking Demo](homografias/homografia2.PNG)
+!(homografias/homografia2.PNG)
